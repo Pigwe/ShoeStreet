@@ -1,0 +1,7 @@
+body
+ container
+   div class navbar
+     nav class  navbar--nav
+         logo
+           input
+           
